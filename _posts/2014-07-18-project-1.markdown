@@ -4,7 +4,7 @@ subtitle: How Reynold Number effect CFD?
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+img: CFD_toiletPaper.png
 thumbnail: CFD_toiletPaper.png
 alt: image-alt
 project-date: April 2014
